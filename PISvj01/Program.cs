@@ -11,7 +11,11 @@ namespace PISvj01
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("gradele");
+
             Console.WriteLine("ovo je moja lokalna promjena");
+
+            Console.WriteLine("tuđa promjena");
+
         }
     }
 }
